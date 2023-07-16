@@ -1,0 +1,14 @@
+C:\Users\Mustafa\source\repos\ProjectATMSimulation\ProjectATMSimulation\ProjectATMSimulation\bin\Debug\ProjectATMSimulation.exe.config
+C:\Users\Mustafa\source\repos\ProjectATMSimulation\ProjectATMSimulation\ProjectATMSimulation\bin\Debug\ProjectATMSimulation.exe
+C:\Users\Mustafa\source\repos\ProjectATMSimulation\ProjectATMSimulation\ProjectATMSimulation\bin\Debug\ProjectATMSimulation.pdb
+C:\Users\Mustafa\source\repos\ProjectATMSimulation\ProjectATMSimulation\ProjectATMSimulation\obj\Debug\ProjectATMSimulation.csproj.AssemblyReference.cache
+C:\Users\Mustafa\source\repos\ProjectATMSimulation\ProjectATMSimulation\ProjectATMSimulation\obj\Debug\ProjectATMSimulation.csproj.SuggestedBindingRedirects.cache
+C:\Users\Mustafa\source\repos\ProjectATMSimulation\ProjectATMSimulation\ProjectATMSimulation\obj\Debug\ProjectATMSimulation.Form1.resources
+C:\Users\Mustafa\source\repos\ProjectATMSimulation\ProjectATMSimulation\ProjectATMSimulation\obj\Debug\ProjectATMSimulation.Properties.Resources.resources
+C:\Users\Mustafa\source\repos\ProjectATMSimulation\ProjectATMSimulation\ProjectATMSimulation\obj\Debug\ProjectATMSimulation.csproj.GenerateResource.cache
+C:\Users\Mustafa\source\repos\ProjectATMSimulation\ProjectATMSimulation\ProjectATMSimulation\obj\Debug\ProjectATMSimulation.csproj.CoreCompileInputs.cache
+C:\Users\Mustafa\source\repos\ProjectATMSimulation\ProjectATMSimulation\ProjectATMSimulation\obj\Debug\ProjectATMSimulation.exe
+C:\Users\Mustafa\source\repos\ProjectATMSimulation\ProjectATMSimulation\ProjectATMSimulation\obj\Debug\ProjectATMSimulation.pdb
+C:\Users\Mustafa\source\repos\ProjectATMSimulation\ProjectATMSimulation\ProjectATMSimulation\obj\Debug\ProjectATMSimulation.Form2.resources
+C:\Users\Mustafa\source\repos\ProjectATMSimulation\ProjectATMSimulation\ProjectATMSimulation\obj\Debug\ProjectATMSimulation.Form3.resources
+C:\Users\Mustafa\source\repos\ProjectATMSimulation\ProjectATMSimulation\ProjectATMSimulation\obj\Debug\ProjectATMSimulation.Form4.resources
